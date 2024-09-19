@@ -9,5 +9,7 @@ In this project, I chose the SourceForge platform, which allowed me to perform c
 
 Since this design was intended for real-world use, I reevaluated the design using real components available on the market instead of the theoretical ideal values. After testing and iteration, I finalized my circuit. At the final stage of my project, the result documents included in the project file detail the values and outcomes the project has reached. At this stage, I thoroughly examined how theoretical design approaches align with practical production processes and how the design was improved with various optimizations.
 
+![MODEL](model.png)
+
 **This project was designed for **868 MHz**, and you can also review my project for **1800 MHz** in a similar manner.**
 
