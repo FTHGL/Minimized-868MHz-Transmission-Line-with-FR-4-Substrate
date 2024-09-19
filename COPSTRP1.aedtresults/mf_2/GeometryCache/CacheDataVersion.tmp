@@ -1,0 +1,10 @@
+$begin 'CacheDataVersion'
+	DataVersion=19
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$l='(41.1637/4) mm'
+	$w='1.43678mm'
+	$clearance='0.791999mm'
+	$t='0.035mm'
+	$h='0.8mm'
+$end 'VariableValues'

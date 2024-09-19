@@ -1,0 +1,22 @@
+(status): Nexxim version: 2024.2.0 WIN64, build time: May 23 2024, 02:38:15
+
+(status): Analyzing C:/Users/fthgl/Desktop/LoRaMuPr-VAF5147/LoRa_MuPr-VAF4751/HFSS Documents/868 Mhz-Transmission Line/COPSTRP1.aedtresults/Circuit1/temp/DV49_S133_V476.cir.
+(info): Processing circuit for new analysis.
+omp(status): Requested number of threads in UI setting is 1
+circuit_details(status): Total device types: 5
+device type                                       number of devices
+----------------------------------------------------------------------
+capacitor                                         1
+field_solver_cosim                                1
+inductor                                          1
+port_impedance                                    2
+resistor                                          1
+(status): License checkout took 0.479 seconds.
+models:field_solver_cosim(status): fieldsolver:3 - Cosimulation data transfer complete. Number of freq points = 200.
+models:s_element(warning): fieldsolver:3.s - DC point has too-large imaginary part.
+(info): Starting analysis type LNA.
+analysis:dc(status): Total DC newton iterations = 4, DC conv = 1.
+analysis:small_signal:lna(warning): Z parameters invalid due to singularity that may be caused by floating nodes/ports.
+(status): LNA cpu time = 0.017
+(info): Simulation succeeded. Total simulator time: 0:00:00
+(status): Start Time:  09/19/2024 13:11:36, End Time:  09/19/2024 13:11:37, Host DESKTOP-51UAIET, 

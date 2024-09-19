@@ -1,0 +1,67 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002024, month=000000000009, day=000000000019, hour=000000000013, min=000000000012, sec=000000000045)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000002163, lin=000000000046, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock133'
+	SimSetupID=134
+	SimSetupName='LinearFrequency1'
+	VersionID=476
+	DefaultSol=133
+$end 'SolutionBlock133'
+$begin 'SolutionBlock134'
+	SolutionName='LinearFrequency1'
+	SolutionID=133
+	V=476
+	$begin 'States'
+		F(VID=49, Ver=476)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies()
+		SolutionType=1
+		CenterFreq=0
+	$end 'Definition'
+	AlterName=''
+$end 'SolutionBlock134'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=134, Instance=\'$clearance=\\\'0.79199900000000001mm\\\' $h=\\\'0.80000000000000004mm\\\' $l=\\\'10.290925mm\\\' $t=\\\'0.035000000000000003mm\\\' $w=\\\'1.4367799999999999mm\\\'\', Solution=133, VersionID=476)'='SolutionBlock132'
+	'SolutionKey(SimSetup=134, Instance=\'SetupDefinition\', Solution=-1, VersionID=476)'='SolutionBlock133'
+	'SolutionKey(SimSetup=134, Instance=\'SolutionDefinition\', Solution=133, VersionID=476)'='SolutionBlock134'
+$end 'BlockMapName'
+$begin 'SolutionBlock132'
+	VariationDataID=-1
+	File='DV49_S133_V476.cir'
+$end 'SolutionBlock132'
+$begin 'SolutionBlock1'
+	ProductName='Circuit Design'
+	CircuitName='Circuit1'
+	VersionID=476
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=477
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$clearance=\'0.79199900000000001mm\' $h=\'0.80000000000000004mm\' $l=\'10.290925mm\' $t=\'0.035000000000000003mm\' $w=\'1.4367799999999999mm\'', ID=49)
+		Map(V='$clearance=\'0.79199900000000001mm\' $h=\'0.80000000000000004mm\' $l=\'40.842108593749998mm\' $t=\'0.035000000000000003mm\' $w=\'1.4367799999999999mm\'', ID=179)
+		Map(V='$clearance=\'0.79199900000000001mm\' $h=\'0.80000000000000004mm\' $l=\'41.163699999999999mm\' $t=\'0.035000000000000003mm\' $w=\'1.4367799999999999mm\'', ID=15)
+	$end 'VariationIDs'
+$end 'SolutionBlock1'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock132(pos=1332, lin=28, lvl=0)
+		SolutionBlock1(pos=1429, lin=32, lvl=0)
+		BlockMapName(pos=791, lin=22, lvl=0)
+		SolutionBlock134(pos=500, lin=7, lvl=0)
+		SolutionBlock133(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=2163, lin=46, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
