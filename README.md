@@ -9,7 +9,15 @@ In this project, I chose the SourceForge platform, which allowed me to perform c
 
 Since this design was intended for real-world use, I reevaluated the design using real components available on the market instead of the theoretical ideal values. After testing and iteration, I finalized my circuit. At the final stage of my project, the result documents included in the project file detail the values and outcomes the project has reached. At this stage, I thoroughly examined how theoretical design approaches align with practical production processes and how the design was improved with various optimizations.
 
+([to access the project where I used this design](https://github.com/FTHGL/LoRa_MuPr-VAF4751))
+
+The circuit diagram of the impedance matching elements—resistors, inductors, and capacitors to be added before the transmission line as a result of the impedance matching—along with their calculated values, are included in the HFSS project files.
+
 ![MODEL](model.png)
 
 **This project was designed for **868 MHz**, and you can also review my project for **1800 MHz** in a similar manner.**
+
+([Minimized-1800 MHz-Transmission-Line-with-FR-4-Substrate](https://github.com/FTHGL/Minimized-1800-MHz-Transmission-Line-with-FR-4-Substrate/tree/main))
+
+
 
